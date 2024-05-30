@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521106127412",
+    "firebase_url": "https://primeraappconfirebase-default-rtdb.firebaseio.com",
+    "project_id": "primeraappconfirebase",
+    "storage_bucket": "primeraappconfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521106127412:android:32f0226751611cf2602861",
+        "android_client_info": {
+          "package_name": "com.hendergrand.primeraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521106127412-qpbgq9d3b5h8jk4vtakl3661nj10be9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hendergrand.primeraapp",
+            "certificate_hash": "6dd44a0a807d2a8076ef8c772e108807faaa5e6e"
+          }
+        },
+        {
+          "client_id": "521106127412-g3ktq0v84gvu1vlafu9nhet02htb04qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs_J8CRj3KLfkv7Q41AthdkorhyHHhl-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521106127412-g3ktq0v84gvu1vlafu9nhet02htb04qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

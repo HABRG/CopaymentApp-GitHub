@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#51CD20</color>
+    
+    
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="negro">#252525</color>
+
+
+    //Payments App
+    <color name="Blue_Title">#1D3A70</color>
+    <color name="Grey_body">#6B7280</color>
+    <color name="botton_color">#21478E</color>
+    <color name="forgot_password">#1DAB87</color>
+    <color name="grey_scale">#E5E7EB</color>
+    <color name="sing_in">#1DAB87</color>
+    <color name="bottom_navigation_color">#228BE6</color>
+
+    //Fragments
+    <color name="home_fragment">#2C511E</color>
+    <color name="my_card_fragment">#21478E</color>
+    <color name="activity_fragment">#08797E</color>
+    <color name="profile_fragment">#E5E7EB</color>
+    
+    //Splas Screen
+    <color name="splash_screen">#1DAB87</color>
+
+    <color name="button_acces">#F9FAFB</color>
+
+    <color name="profile_background">#BCD6D7DA</color>
+</resources>

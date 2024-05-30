@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PrimeraApp</string>
+
+    //Payments App
+    <string name="saltar">Skip</string>
+    <string name="text_title">The fastest transaction process only here</string>
+    <string name="text_body">Get easy to pay all your bills with just a few steps. Paying your bills become fast and efficient.</string>
+    <string name="get_started">Get Started</string>
+    <string name="hi_there">Hi There! 👋</string>
+    <string name="text_body2">Welcome back, Sign in to your account</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sing_in">Sign In</string>
+    <string name="dont_have_an_account">Don’t have an account? </string>
+    <string name="sing_up">Sign Up</string>
+
+    <string name="create_a">Create a</string>
+    <string name="co.payment"> Co.payment</string>
+
+    <string name="account">account</string>
+    <string name="already_have_an_account">Already have an account?</string>
+
+    <string name="passsword_recovery">Passsword Recovery</string>
+    <string name="enter_your_registered_email_below_to_receive_password_instructions">Enter your registered email below to receive</string>
+    <string name="password_instructions">password instructions</string>
+
+    <string name="send_me_email">Sent me email</string>
+    <string name="default_web_client_id">defaul web</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <style name="cerrar_sesion">Salir</style>
+
+</resources>

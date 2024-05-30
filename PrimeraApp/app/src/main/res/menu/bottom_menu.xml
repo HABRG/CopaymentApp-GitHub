@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_Home"
+        android:icon="@drawable/icons8_home"
+        android:title="Home"
+        android:iconTint="@color/home_fragment"/>
+
+    <item
+        android:id="@+id/bottom_Card"
+        android:icon="@drawable/my_card"
+        android:title="My Card"
+        android:iconTint="@color/my_card_fragment"/>
+
+    <item
+        android:title="" />
+
+
+    <item
+        android:id="@+id/bottom_Activity"
+        android:icon="@drawable/activity"
+        android:title="Activity"
+        android:iconTint="@color/activity_fragment"/>
+
+    <item
+        android:id="@+id/bottom_Profile"
+        android:icon="@drawable/profile_user_svgrepo_com"
+        android:title="Profile"
+        android:iconTint="@color/profile_fragment"/>
+
+
+</menu>
